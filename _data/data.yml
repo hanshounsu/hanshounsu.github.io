@@ -10,7 +10,7 @@ sidebar:
     # Profile information
     name: Alan Doe
     tagline: Full Stack Developer
-    avatar: hounsu_big.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: hounsu_big.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: hanshounsu@kaist.ac.kr
