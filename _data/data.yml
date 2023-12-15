@@ -51,7 +51,7 @@ sidebar:
         - item: Indie Band Music
           link:
 
-        - item: Writing some sad songs [link]
+        - item: Writing some sad songs ;/ [link]
           link: https://soundcloud.com/immhans
 
 career-profile:
@@ -117,10 +117,10 @@ certifications:
         - name: Neutune Co. Ltd.
           start: 2021.06
           end: 2021.09
-          organization: 
+          organization: neutune
           credentialid: 
-          credentialurl: 
-          credentialname: 
+          credentialurl: neutune.com
+          credentialname: Neutune
           details: |
             Research Intern in Neutune
 
@@ -128,10 +128,10 @@ certifications:
 
 projects:
     title: Projects
-    intro: |
+    intro: >
       You can list your side projects in this section. 
     assignments:
-      - title: ToplAIner: Acoustic Guitar Conditioned Singing Voice Generation
+      - title: ToplAIner - Acoustic Guitar Conditioned Singing Voice Generation
         link: "https://drive.google.com/file/d/1Rj-URVu1h8yUAC510Sw3PwTFZ5TMCFe7/view"
         tagline: "A recent trend in the way music is produced is to produce beats first and then create a top line, an addictive melody part, on top of it.
 Using the Diffusion technique, which has recently become a popular generative AI technique, we have built an end-to-end system that can help produce a
@@ -182,10 +182,10 @@ publications:
         authors: Hounsu Kim, Soonbeom Choi, Juhan Nam
         conference: Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024
 
-      # - title: A Study of Electro-Discharge-Sintering of Ti-6Al-4V Spherical Powders Doped with Hydroxyapatite by Spex Milling and Its Consolidation Characteristics
-      #   link: ""
-      #   authors: 1.	Y. J. Cho, Y. H. Kim, Y. H. Jo, M. J. Kim, H. S. Kim, S. W. Kim, J. H. Park, and W. H. Lee*, 
-      #   conference: J. Kor. Powd. Met. Inst., 20.5 (2018) 376-381
+      - title: A Study of Electro-Discharge-Sintering of Ti-6Al-4V Spherical Powders Doped with Hydroxyapatite by Spex Milling and Its Consolidation Characteristics
+        link: ""
+        authors: 1.	Y. J. Cho, Y. H. Kim, Y. H. Jo, M. J. Kim, H. S. Kim, S. W. Kim, J. H. Park, and W. H. Lee*, 
+        conference: J. Kor. Powd. Met. Inst., 20.5 (2018) 376-381
 
 # skills:
 #     title: Skills &amp; Proficiency
