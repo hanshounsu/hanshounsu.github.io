@@ -91,21 +91,6 @@ experiences:
         time: 2023 - present
         details: Music and Audio Computing Lab (Advisor - Juhan Nam)
 
-      - role: Korean  of Science and Technology
-        company: MSc in Graol of Culture Technology 
-        time: 2021 -
-        details: Music puting Lab (Advisor - Juhan Nam)
-
-
-
-experiences:
-    title: experiences
-    info:
-      - role: Korean Advanced Institute of Science and Technology
-        company: Ph.D Student in Graduate School of Culture Technology 
-        time: 2023 - present
-        details: Music and Audio Computing Lab (Advisor - Juhan Nam)
-
       - role: Korean Advanced Institute of Science and Technology
         company: MSc in Graduate School of Culture Technology 
         time: 2021 - 2023
@@ -122,26 +107,26 @@ experiences:
         details:
 
 
-# certifications:
-#       title: Certifications
-#       list:
+certifications:
+      title: Certifications
+      list:
 
-#         - name: Git learning
-#           start: 2019
-#           end:
-#           organization: Microsoft
-#           credentialid: 111-222
-#           credentialurl: www.github.com
-#           credentialname: Github
-#           details: |
-#             Older certification. Lorem ipsum dolor sit amet, consectetur
-#             adipiscing elit.
-#             Nullam eget orci purus. Nullam ultrices neque nibh.
-#             Aenean fermentum, felis vulputate suscipit accumsan,
-#             sem enim bibendum augue, sed convallis arcu lacus at dui.
-#             Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-#             Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-#             Praesent venenatis erat non augue suscipit consectetur.
+        - name: Git learning
+          start: 2019
+          end:
+          organization: Microsoft
+          credentialid: 111-222
+          credentialurl: www.github.com
+          credentialname: Github
+          details: |
+            Older certification. Lorem ipsum dolor sit amet, consectetur
+            adipiscing elit.
+            Nullam eget orci purus. Nullam ultrices neque nibh.
+            Aenean fermentum, felis vulputate suscipit accumsan,
+            sem enim bibendum augue, sed convallis arcu lacus at dui.
+            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+            Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
     title: Projects
