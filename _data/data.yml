@@ -111,12 +111,12 @@ certifications:
       title: Experiences
       list:
 
-        - name: Neutune
+        - name: Neutune Co. Ltd.
           start: 2021.06
           end: 2021.09
-          organization: 2021.06 - dkd
+          organization: 
           credentialid: 
-          credentialurl: www.github.com
+          credentialurl: https://neutune.com
           credentialname: Neutune
           details: |
             Research Intern in Neutune
