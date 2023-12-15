@@ -58,7 +58,7 @@ career-profile:
     title: Career Profile
     summary: |
       Hello, I'm a Ph.D student at Music and Audio Computing Lab, KAIST, advised by Prof. Juhan Nam.
-      I'm interested in general music generation tasks, especially instrument and singing voice synthesis.
+      My current research focuses on general music generation tasks, especially instrument and singing voice synthesis.
       I'm also interested in generative models such as GAN, diffusion etc.
     
 # My MBTI is INTP, and I love classifying people with MBTIs. I like Radiohead, The Smiths, 새소년, 大貫 妙子 etc.
@@ -129,7 +129,7 @@ certifications:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this section. 
+
     assignments:
       - title: ToplAIner - Acoustic Guitar Conditioned Singing Voice Generation [Poster]
         link: "https://drive.google.com/file/d/1Rj-URVu1h8yUAC510Sw3PwTFZ5TMCFe7/view"
