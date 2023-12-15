@@ -127,10 +127,8 @@ certifications:
 
 projects:
     title: Projects
-    # intro: >
-    #   You can list your side projects in this
-    #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro: >
+      You can list your side projects in this section. 
     assignments:
       - title: ToplAIner: Acoustic Guitar Conditioned Singing Voice Generation
         link: "https://drive.google.com/file/d/1Rj-URVu1h8yUAC510Sw3PwTFZ5TMCFe7/view"
