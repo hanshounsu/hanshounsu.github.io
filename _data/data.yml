@@ -131,11 +131,9 @@ projects:
     intro: >
       You can list your side projects in this section. 
     assignments:
-      - title: ToplAIner - Acoustic Guitar Conditioned Singing Voice Generation
+      - title: ToplAIner - Acoustic Guitar Conditioned Singing Voice Generation [Poster]
         link: "https://drive.google.com/file/d/1Rj-URVu1h8yUAC510Sw3PwTFZ5TMCFe7/view"
-        tagline: "A recent trend in the way music is produced is to produce beats first and then create a top line, an addictive melody part, on top of it.
-Using the Diffusion technique, which has recently become a popular generative AI technique, we have built an end-to-end system that can help produce a
-matching top-line vocal when using any acoustic guitar accompaniment as input."
+        tagline: "2023 Fall KAIST GCT731 Topics in Music Technology <Generative AI for Music> Final Project"
 
       # - title: DevStudio
       #   link: "#"
