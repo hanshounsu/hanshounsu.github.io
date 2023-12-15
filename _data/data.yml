@@ -60,69 +60,48 @@ career-profile:
       Hello, I'm a Ph.D student at Music and Audio Computing Lab, KAIST, advised by Prof. Juhan Nam.
       I'm interested in general music generation tasks, especially instrument and singing voice synthesis.
       I'm also interested in generation models such as GAN, diffusion etc.
-education:
-    title: Education
-    info:
-      - degree: Korean Advanced Institute of Science and Technology
-        university: Ph.D Student in Graduate School of Culture Technology | Music and Audio Computing Lab (Advisor - Juhan Nam)
-        time: 2023 - present
-        details: 
+# education:
+#     title: Education
+#     info:
+#       - degree: Korean Advanced Institute of Science and Technology
+#         university: Ph.D Student in Graduate School of Culture Technology | Music and Audio Computing Lab (Advisor - Juhan Nam)
+#         time: 2023 - present
+#         details: 
 
-      - degree: Korean Advanced Institute of Science and Technology
-        university: MSc in Graduate School of Culture Technology 
-        time: 2021 - 2023
-        details: Music and Audio Computing Lab (Advisor - Juhan Nam)
+#       - degree: Korean Advanced Institute of Science and Technology
+#         university: MSc in Graduate School of Culture Technology 
+#         time: 2021 - 2023
+#         details: Music and Audio Computing Lab (Advisor - Juhan Nam)
 
-      - degree: Korean Advanced Institute of Science and Technology
-        university: BSc in Mechanical Engineering
-        time: 2015 - 2021
-        details: 
+#       - degree: Korean Advanced Institute of Science and Technology
+#         university: BSc in Mechanical Engineering
+#         time: 2015 - 2021
+#         details: 
 
-      - degree: Gyeonggi Science High School
-        university: Diploma, High School
-        time: 2012 - 2015
-        details: 
+#       - degree: Gyeonggi Science High School
+#         university: Diploma, High School
+#         time: 2012 - 2015
+#         details: 
 
 experiences:
-    title: Experiences
+    title: Education
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      # - role: Lead Developer
+      #   time: 2015 - Present
+      #   company: Startup Hubs, San Francisco
+      #   details: |
+      #     Describe your role here lorem ipsum dolor sit amet, consectetuer
+      #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      #     Cum sociis natoque penatibus et magnis dis parturient montes,
+      #     nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      #     pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+      #     enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+      #     error sit voluptatem accusantium doloremque laudantium, totam rem
+      #     aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+      #     architecto beatae vitae dicta sunt explicabo.
+      #       - Bullet point
+      #       - Bullet point
+
 
 certifications:
       title: Certifications
