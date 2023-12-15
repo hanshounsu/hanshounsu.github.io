@@ -178,7 +178,7 @@ publications:
     papers:
       - title: Expressive Acoustic Guitar Sound Synthesis with and Instrument-Specific Input Representation and Diffusion Outpainting
         link: "https://hanshounsu.github.io/guitar-synthesis-diffusion-outpainting/"
-        authors: **Hounsu Kim**, Soonbeom Choi, Juhan Nam
+        authors: Hounsu Kim, Soonbeom Choi, Juhan Nam
         conference: Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024
 
       - title: A Study of Electro-Discharge-Sintering of Ti-6Al-4V Spherical Powders Doped with Hydroxyapatite by Spex Milling and Its Consolidation Characteristics
