@@ -128,7 +128,7 @@ certifications:
 
 projects:
     title: Projects
-    intro: >
+    intro: |
       You can list your side projects in this section. 
     assignments:
       - title: ToplAIner: Acoustic Guitar Conditioned Singing Voice Generation
