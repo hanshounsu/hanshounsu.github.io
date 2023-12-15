@@ -108,25 +108,20 @@ experiences:
 
 
 certifications:
-      title: Certifications
+      title: Experiences
       list:
 
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
+        - name: Neutune
+          start: 2021.06
+          end: 2021.09
+          organization: 2021.06 - dkd
+          credentialid: 
           credentialurl: www.github.com
-          credentialname: Github
+          credentialname: Neutune
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            Research Intern in Neutune
+
+
 
 projects:
     title: Projects
