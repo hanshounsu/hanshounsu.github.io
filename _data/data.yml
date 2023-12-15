@@ -63,18 +63,23 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in KAIST, Graduate School of Culture Technology
-        university: Music And Audio Computing Lab (Advisor - Juhan Nam)
-        time: 2011 - 2012
+      - degree: Korean Advanced Institute of Science and Technology
+        university: Ph.D Student in Graduate School of Culture Technology | Music and Audio Computing Lab (Advisor - Juhan Nam)
+        time: 2023 - present
+        details: 
+
+      - degree: Korean Advanced Institute of Science and Technology
+        university: MSc in Graduate School of Culture Technology 
+        time: 2021 - 2023
         details: Music and Audio Computing Lab (Advisor - Juhan Nam)
 
-      - degree: BSc in Mechanical Engineering
-        university: Korean Advanced Institute of Science and Technology
+      - degree: Korean Advanced Institute of Science and Technology
+        university: BSc in Mechanical Engineering
         time: 2015 - 2021
         details: 
 
-      - degree: Diploma, High School
-        university: Gyeonggi Science High School
+      - degree: Gyeonggi Science High School
+        university: Diploma, High School
         time: 2012 - 2015
         details: 
 
