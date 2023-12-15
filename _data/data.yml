@@ -8,8 +8,8 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Hounsu Kim
+    tagline: MIR/AI Researcher
     avatar: hounsu_big.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -28,7 +28,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: # http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
@@ -45,49 +45,38 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Progressive Rock
-          link:
-
-        - item: Indie Bands
-          link:
-
         - item: Swimming
           link:
+
+        - item: Indie Band Music
+          link:
+
+        - item: Writing some amateur songs
+          link: soundcloud.com/immhans
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Hello, I'm a Ph.D student at Music and Audio Computing Lab, KAIST, advised by Prof. Juhan Nam.
+      I'm interested in general music generation tasks, especially instrument and singing voice synthesis.
+      I'm also interested in generation models such as GAN, diffusion etc.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
+      - degree: MSc in Graduate School of Culture Technology
+        university: Korean Advanced Institute of Science and Technology
         time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+        details: Music and Audio Computing Lab (Advisor - Juhan Nam)
+
+      - degree: BSc in Mechanical Engineering
+        university: Korean Advanced Institute of Science and Technology
+        time: 2015 - 2021
+        details: 
+
+      - degree: Diploma, High School
+        university: Gyeonggi Science High School
+        time: 2012 - 2015
+        details: 
 
 experiences:
     title: Experiences
