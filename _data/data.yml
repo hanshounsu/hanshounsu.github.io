@@ -130,14 +130,14 @@ certifications:
 
 
 
-# projects:
-#     title: Projects
-#     intro: >
+projects:
+    title: Projects
+    intro: >
 
-#     assignments:
-#       - title: ToplAIner - Acoustic Guitar Conditioned Singing Voice Generation [Poster]
-#         link: "https://drive.google.com/file/d/1fuSOQzbrY6F5VV0PcxqgVsSXklLkIVWn/view?usp=sharing"
-#         tagline: "2023 Fall KAIST GCT731 Topics in Music Technology <Generative AI for Music> Final Project"
+    assignments:
+      - title: ToplAIner - Acoustic Guitar Conditioned Singing Voice Generation [Poster]
+        link: "https://drive.google.com/file/d/1fuSOQzbrY6F5VV0PcxqgVsSXklLkIVWn/view?usp=sharing"
+        tagline: "2023 Fall KAIST GCT731 Topics in Music Technology <Generative AI for Music> Final Project"
 
       # - title: DevStudio
       #   link: "#"
@@ -180,12 +180,13 @@ publications:
 
     papers:
       - title: CoNMod Controllable Neural Frame-based Modulation Effects
-        link: "https://lgbin81.notion.site/Audio-Demo-for-DAFx-2024-Paper-70705a992d5c4730a1f70fbaf951243b?pvs=4"
+        link: "https://arxiv.org/abs/2406.13935"
         authors: Gyubin Lee, Hounsu Kim, Junwon Lee, Juhan Nam
-        conference: Proceedings of the 27th International Conference on Digital Audio Effects (DAFx24)
+        conference: Proceedings of the 27th International Conference on Digital Audio Effects (DAFx24) a
+        details: "Best Paper Award"
 
       - title: Expressive Acoustic Guitar Sound Synthesis with an Instrument-Specific Input Representation and Diffusion Outpainting
-        link: "https://hanshounsu.github.io/guitar-synthesis-diffusion-outpainting/"
+        link: "https://arxiv.org/abs/2401.13498"
         authors: Hounsu Kim, Soonbeom Choi, Juhan Nam
         conference: Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024
 
