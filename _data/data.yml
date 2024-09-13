@@ -182,7 +182,7 @@ publications:
       - title: CoNMod Controllable Neural Frame-based Modulation Effects
         link: "https://arxiv.org/abs/2406.13935"
         authors: Gyubin Lee, Hounsu Kim, Junwon Lee, Juhan Nam
-        conference: Proceedings of the 27th International Conference on Digital Audio Effects (DAFx24) a
+        conference: Proceedings of the 27th International Conference on Digital Audio Effects (DAFx24)
         details: "Best Paper Award"
 
       - title: Expressive Acoustic Guitar Sound Synthesis with an Instrument-Specific Input Representation and Diffusion Outpainting

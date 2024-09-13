@@ -242,6 +242,11 @@ p {
     color: $text-grey;
     margin-bottom: 1px;
   }
+  .publication-details {
+    font-style: italic;
+    color: $heart;
+    margin-bottom: 1px;
+  }
   .publications-section {
     .intro {
       margin-bottom: 30px;
