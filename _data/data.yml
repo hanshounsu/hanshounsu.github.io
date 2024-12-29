@@ -179,6 +179,11 @@ publications:
     intro: |
 
     papers:
+      - title: D3RM A Discrete Denoising Diffusion Refinement Model for Piano Transcription
+        link: 
+        authors: Hounsu Kim, Taegyun Kwon, Juhan Nam
+        conference: Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2025
+        
       - title: CoNMod Controllable Neural Frame-based Modulation Effects
         link: "https://arxiv.org/abs/2406.13935"
         authors: Gyubin Lee, Hounsu Kim, Junwon Lee, Juhan Nam
