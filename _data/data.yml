@@ -61,8 +61,9 @@ career-profile:
     title: Career Profile
     summary: |
       Hello, I'm a Ph.D student at Music and Audio Computing Lab, KAIST, advised by Prof. Juhan Nam.
-      My current research focuses on music generation and differentiable DSP, especially instrument and singing voice synthesis.
-      I'm also interested in generative models such as GAN, diffusion etc. I like writing songs and lyrics with my acoustic guitar.
+      My current research focuses on speech synthesis, audio tokenization, and music generation. I'm currently interested in efficient processing of audio by disentangling its features.
+      I'm also interested in generative models such as GAN, discrete/continuous domain diffusion models, LLMs etc.
+      I like writing songs and lyrics with my acoustic guitar. Some of my favorite artists include Radiohead, Yamashita Tatsuro, Velvet Underground, Byeong-woo Lee etc.
 
     
 # My MBTI is INTP, and I love classifying people with MBTIs. 
