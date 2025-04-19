@@ -1,0 +1,36 @@
+{% assign advisees = site.data.data.academic_advising %}
+{% if advisees %}
+<section class="section academic-advising-section">
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-user-graduate fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ advisees.title }}
+  </h2>
+
+  {% for advisee in advisees.info %}
+  <div class="item">
+
+    <div class="meta">
+
+      <div class="upper-row">
+        <h3 class="job-title">{{ advisee.name }}</h3>
+        <div class="time">{{ advisee.period }}</div>
+      </div><!--//upper-row-->
+
+      <div class="company">{{ advisee.department }}</div>
+
+    </div><!--//meta-->
+
+    {% if advisee.details %}
+    <div class="details">
+      {{ advisee.details | markdownify }}
+    </div><!--//details-->
+    {% endif %}
+
+  </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
