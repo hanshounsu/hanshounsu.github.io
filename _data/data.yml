@@ -127,8 +127,6 @@ certifications:
           credentialurl: neutune.com
           credentialname: Neutune
           details: |
-            
-
 
 
 projects:
@@ -200,6 +198,10 @@ publications:
         link: 
         authors: Y. J. Cho, Y. H. Kim, Y. H. Jo, M. J. Kim, H. S. Kim, S. W. Kim, J. H. Park, and W. H. Lee*, 
         conference: J. Kor. Powd. Met. Inst., 20.5 (2018) 376-381
+
+advising:
+  - Gyubin Lee - Electronic Engineering, KAIST (Sep 2023 - Mar 2024)
+  - Donghoon Kang - Computer Science, KAIST (Dec 2024 - Apr 2025)
 
 # skills:
 #     title: Skills &amp; Proficiency
