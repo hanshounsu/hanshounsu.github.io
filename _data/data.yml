@@ -110,7 +110,7 @@ experiences:
         time: 2015 - 2021
         details: 
 
-      - role: Gyeonggi Science High School
+      - role: Gyeonggi Science High School for the Gifted
         company: Diploma, High School
         time: 2012 - 2015
         details:
@@ -189,7 +189,7 @@ publications:
         link: "https://arxiv.org/abs/2406.13935"
         authors: Gyubin Lee, Hounsu Kim, Junwon Lee, Juhan Nam
         conference: Proceedings of the 27th International Conference on Digital Audio Effects (DAFx24)
-        details: "**Best Paper Award**"
+        details: "**Best Student Paper Award**"
 
       - title: Expressive Acoustic Guitar Sound Synthesis with an Instrument-Specific Input Representation and Diffusion Outpainting
         link: "https://arxiv.org/abs/2401.13498"
