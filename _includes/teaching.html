@@ -1,0 +1,25 @@
+{% assign teaching = site.data.data.teaching_activities %}
+{% if teaching %}
+<section class="section teaching-section">
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-chalkboard-teacher fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ teaching.title }}
+  </h2>
+
+  {% for item in teaching.items %}
+  <div class="item">
+    <div class="meta">
+      <div class="upper-row">
+        <h3 class="job-title">{{ item.course }}</h3>
+        <div class="time">{{ item.period }}</div>
+      </div><!--//upper-row-->
+      <div class="company">{{ item.institution }} | {{ item.role }}</div>
+    </div><!--//meta-->
+  </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}

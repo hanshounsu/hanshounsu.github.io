@@ -178,30 +178,31 @@ publications:
     intro: |
 
     papers:
+      - title: D3PIA A Discrete Denoising Diffusion Model for Piano Accompaniment Generation
+        link: ""
+        authors: Eunjin Choi, <u>Hounsu Kim</u>, Taegyun Kwon, Juhan Nam
+        conference: Under Review
+        
       - title: D3RM A Discrete Denoising Diffusion Refinement Model for Piano Transcription
-        link: 
-        authors: Hounsu Kim, Taegyun Kwon, Juhan Nam
+        link: "https://arxiv.org/abs/2501.05068"
+        authors: <u>Hounsu Kim</u>, Taegyun Kwon, Juhan Nam
         conference: Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2025
         
       - title: CoNMod Controllable Neural Frame-based Modulation Effects
         link: "https://arxiv.org/abs/2406.13935"
-        authors: Gyubin Lee, Hounsu Kim, Junwon Lee, Juhan Nam
+        authors: Gyubin Lee, <u>Hounsu Kim</u>, Junwon Lee, Juhan Nam
         conference: Proceedings of the 27th International Conference on Digital Audio Effects (DAFx24)
         details: "**Best Student Paper Award**"
 
       - title: Expressive Acoustic Guitar Sound Synthesis with an Instrument-Specific Input Representation and Diffusion Outpainting
         link: "https://arxiv.org/abs/2401.13498"
-        authors: Hounsu Kim, Soonbeom Choi, Juhan Nam
+        authors: <u>Hounsu Kim</u>, Soonbeom Choi, Juhan Nam
         conference: Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024
 
       - title: A Study of Electro-Discharge-Sintering of Ti-6Al-4V Spherical Powders Doped with Hydroxyapatite by Spex Milling and Its Consolidation Characteristics
-        link: 
-        authors: Y. J. Cho, Y. H. Kim, Y. H. Jo, M. J. Kim, H. S. Kim, S. W. Kim, J. H. Park, and W. H. Lee*, 
-        conference: J. Kor. Powd. Met. Inst., 20.5 (2018) 376-381
-
-advising:
-  - Gyubin Lee - Electronic Engineering, KAIST (Sep 2023 - Mar 2024)
-  - Donghoon Kang - Computer Science, KAIST (Dec 2024 - Apr 2025)
+        link: https://powdermat.org/journal/view.php?number=1027
+        authors: Y. J. Cho, Y. H. Kim, Y. H. Jo, M. J. Kim, <u>H. S. Kim</u>, S. W. Kim, J. H. Park, and W. H. Lee*, 
+        conference: J. Kor. Powd. Met. Inst., 20.5 (2013) 376-381
 
 academic_advising:
   title: Academic Advising
@@ -209,15 +210,48 @@ academic_advising:
     - name: Gyubin Lee
       department: Department of Electronic Engineering
       period: Sep 2023 - Mar 2024
-      details: |
+      # details: |
     - name: Donghoon Kang
       department: Department of Computer Science
       period: Dec 2024 - Apr 2025
-      details: |
-        # Advised on research related to machine learning applications in healthcare.
-        # - Helped develop research methodology
-        # - Provided feedback on academic papers
-        # - Supported grant applications
+      # details: |
+      #   Advised on research related to machine learning applications in healthcare.
+      #   - Helped develop research methodology
+      #   - Provided feedback on academic papers
+      #   - Supported grant applications
+
+teaching_activities:
+  title: Teaching Activities
+  items:
+    - course: Introduction to Culture Technology
+      institution: KAIST
+      period: Spring 2022
+      role: Teaching Assistant
+      
+    - course: Musical Applications of Machine Learning
+      institution: KAIST
+      period: Fall 2022
+      role: Teaching Assistant
+      
+    - course: Fundamentals of Computer Music
+      institution: KAIST
+      period: Fall 2023
+      role: Teaching Assistant
+    
+    - course: Musical Applications of Machine Learning
+      institution: KAIST
+      period: Spring 2024
+      role: Teaching Assistant
+    
+    - course: Fundamentals of Computer Music
+      institution: KAIST
+      period: Fall 2024
+      role: Teaching Assistant
+    
+    - course: Musical Applications of Machine Learning
+      institution: KAIST
+      period: Spring 2025
+      role: Teaching Assistant
 
 
 # skills:
