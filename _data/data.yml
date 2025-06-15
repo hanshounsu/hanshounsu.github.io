@@ -178,10 +178,10 @@ publications:
     intro: |
 
     papers:
-      - title: D3PIA A Discrete Denoising Diffusion Model for Piano Accompaniment Generation
-        link: ""
-        authors: Eunjin Choi, <u>Hounsu Kim</u>, Taegyun Kwon, Juhan Nam
-        conference: Under Review
+      # - title: D3PIA A Discrete Denoising Diffusion Model for Piano Accompaniment Generation
+      #   link: ""
+      #   authors: Eunjin Choi, <u>Hounsu Kim</u>, Taegyun Kwon, Juhan Nam
+      #   conference: Under Review
         
       - title: D3RM A Discrete Denoising Diffusion Refinement Model for Piano Transcription
         link: "https://arxiv.org/abs/2501.05068"
